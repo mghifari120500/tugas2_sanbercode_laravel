@@ -1,0 +1,27 @@
+body {
+    background: aliceblue;
+    background-image: url("pattern.jpg")
+  }
+  
+  h1 {
+    text-align: center;
+    text-decoration : overline;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  p.thick {
+      font-weight: bold;
+  }
+
+  div.b {
+      text-align: left;
+  }
+
+  div.static {
+      position : static;
+  }
+
